@@ -177,3 +177,8 @@
     -webkit-animation-timing-function: ease-in-out;
     animation-timing-function: ease-in-out;
   }
+  /* CARGANDO IMAGENES*/
+  svg path,
+svg rect{
+  fill: black;
+}
